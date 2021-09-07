@@ -1,0 +1,8 @@
+$color: #EE5514;
+
+@mixin font() {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    @content
+}

@@ -1,0 +1,50 @@
+@keyframes anime_logo_1 {
+    0%
+    {
+        transform: translateX(-200px);
+    }
+    100%
+    {
+        transform: translateX(0px);
+    }
+}
+@keyframes anime_logo_3 {
+    0%
+    {
+        transform: translateX(200px);
+    }
+    100%
+    {
+        transform: translateX(0px);
+    }
+}
+@keyframes anime_logo_2 {
+    0%
+    {
+        transform: translateY(200px);
+    }
+    100%
+    {
+        transform: translateY(0px);
+    }
+}
+@keyframes p_ani {
+    0%
+    {
+        transform: translateX(-200px);
+    }
+    100%
+    {
+        transform: translateX(0px);
+    }
+}
+@keyframes img_ani {
+    0%
+    {
+        transform: translateX(200px);
+    }
+    100%
+    {
+        transform: translateX(0px);
+    }
+}
